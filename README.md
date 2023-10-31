@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lofu001
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning front end programming
+- 🌱 I’m currently learning front end web design
 - 💞️ I’m looking to collaborate and Learn front end web development
 - 📫 How to reach me whatsapp:08081512672 IG@Akochi James
 Facebook:Akochi james Twitter:@Akochi James
